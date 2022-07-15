@@ -1,0 +1,12 @@
+# IntelliJ
+.gradle
+.idea
+build/
+gradle/
+
+*.ipr
+*.iml
+*.iws
+out
+java.hprof.txt
+.DS_Store
